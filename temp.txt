@@ -1,0 +1,9 @@
+js is programming-language...
+1> high level, 
+2> single threaded, 
+3> garbage collected, 
+4> jit compiled(!), 
+5> proto-type based, 
+6> multi - paradigm
+7> dynamic
+8> programming-language with a non blocking event loop.
